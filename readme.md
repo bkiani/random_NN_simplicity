@@ -1,6 +1,6 @@
-# Project Title
+# Introduction
 
-Code for conference submission: Deep Neural Networks are Biased towards Simple Functions
+Code for conference submission: Random Deep Neural Networks are Biased towards Simple Functions (https://arxiv.org/abs/1812.10156)
 
 ## Getting Started
 
